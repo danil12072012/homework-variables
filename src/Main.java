@@ -3,10 +3,12 @@ public class Main {
 
         var firstBoxer = 78.2 ;
         var secondBoxer = 82.7 ;
-        var totalWeight = firstBoxer + secondBoxer;
-        System.out.println("Общий вес боксеров " + totalWeight + " кг.");
-        var differenceWeight = firstBoxer - secondBoxer;
-        System.out.println("Разница между весами бойцов " + Math.abs(differenceWeight) + " кг.");
+
+        var differenceWeight = secondBoxer - firstBoxer;
+        System.out.println("Разница между весами бойцов " + differenceWeight + " кг.");
+        var difference = (firstBoxer + secondBoxer) % firstBoxer;
+        System.out.println("Разница между весами боксеров " + difference + " кг.");
+
 
     }
 }
