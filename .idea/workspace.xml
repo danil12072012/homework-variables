@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0516d7c0-6948-4199-a7f4-ce8dd2c273f7" name="Changes" comment="Задача 3">
+    <list default="true" id="0516d7c0-6948-4199-a7f4-ce8dd2c273f7" name="Changes" comment="Задача 4">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +12,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Задача_2" />
+        <entry key="$PROJECT_DIR$" value="Задача_3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671963856127</updated>
-      <workItem from="1671963857189" duration="2773000" />
+      <workItem from="1671963857189" duration="3198000" />
     </task>
     <task id="LOCAL-00001" summary="Homework variables">
       <created>1671964929297</created>
@@ -85,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671966301235</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Задача 4">
+      <created>1671966878331</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671966878331</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +103,7 @@
     <MESSAGE value="Задача 1" />
     <MESSAGE value="Задача 2" />
     <MESSAGE value="Задача 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача 3" />
+    <MESSAGE value="Задача 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача 4" />
   </component>
 </project>
