@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0516d7c0-6948-4199-a7f4-ce8dd2c273f7" name="Changes" comment="Задача 7">
+    <list default="true" id="ece99d61-fce6-44d5-bba8-53a2975e7391" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,17 +17,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="6" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2JOzKx1amW0AFyHSBQfp1mOsgkg" />
+  <component name="ProjectId" id="2JPFbgMI659geFTAwclIi097zyS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,13 +32,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="variables" />
+      <module name="Variables" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -51,84 +56,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0516d7c0-6948-4199-a7f4-ce8dd2c273f7" name="Changes" comment="" />
-      <created>1671963856127</created>
+      <changelist id="ece99d61-fce6-44d5-bba8-53a2975e7391" name="Changes" comment="" />
+      <created>1671971883328</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1671963856127</updated>
-      <workItem from="1671963857189" duration="6161000" />
+      <updated>1671971883328</updated>
+      <workItem from="1671971884382" duration="1049000" />
     </task>
-    <task id="LOCAL-00001" summary="Homework variables">
-      <created>1671964929297</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1671964929297</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Задача 1">
-      <created>1671965988378</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1671965988378</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Задача 2">
-      <created>1671966150088</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1671966150088</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Задача 3">
-      <created>1671966301235</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1671966301235</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Задача 4">
-      <created>1671966878331</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1671966878331</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Задача 5">
-      <created>1671967161926</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1671967161926</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Задача 6">
-      <created>1671968655771</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1671968655771</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Задача 7">
-      <created>1671969451557</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1671969451557</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Homework variables" />
-    <MESSAGE value="Задача 1" />
-    <MESSAGE value="Задача 2" />
-    <MESSAGE value="Задача 3" />
-    <MESSAGE value="Задача 4" />
-    <MESSAGE value="Задача 5" />
-    <MESSAGE value="Задача 6" />
-    <MESSAGE value="Задача 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача 7" />
   </component>
 </project>
